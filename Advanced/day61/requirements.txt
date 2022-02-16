@@ -1,0 +1,7 @@
+Flask==1.0.2
+flask
+
+
+Sobre  requirements.txt:
+
+https://docs.google.com/document/d/e/2PACX-1vRIW_TuZ6z0ASjAoxgJgmzjGYLCDx019tKvphaTwK_Za7fnMKywUuXI0-s5wr0nQI_gprm6J6y7L9rL/pub
